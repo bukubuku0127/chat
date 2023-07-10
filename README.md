@@ -1,7 +1,7 @@
-echo "# chat" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/kochi00/chat.git
-git push -u origin main
+チャットシステム
+
+１．アカウント登録
+２．サインイン
+３．チャンネル作成
+４．チャンネル選択
+５．チャット
